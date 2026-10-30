@@ -1,0 +1,6 @@
+Desktop/build/*
+Desktop/Example_Input_Files/*
+__pycache__/*
+Desktop/build_updated/*
+Desktop/__pycache__/*
+Desktop/dist/*
